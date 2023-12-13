@@ -1,0 +1,14 @@
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\bin\Debug\net8.0\Prueba_Alban_Richard.exe
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\bin\Debug\net8.0\Prueba_Alban_Richard.deps.json
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\bin\Debug\net8.0\Prueba_Alban_Richard.runtimeconfig.json
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\bin\Debug\net8.0\Prueba_Alban_Richard.dll
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\bin\Debug\net8.0\Prueba_Alban_Richard.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\obj\Debug\net8.0\Prueba_Alban_Richard.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\obj\Debug\net8.0\Prueba_Alban_Richard.AssemblyInfoInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\obj\Debug\net8.0\Prueba_Alban_Richard.AssemblyInfo.cs
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\obj\Debug\net8.0\Prueba_Alban_Richard.csproj.CoreCompileInputs.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\obj\Debug\net8.0\Prueba_Alban_Richard.dll
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\obj\Debug\net8.0\refint\Prueba_Alban_Richard.dll
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\obj\Debug\net8.0\Prueba_Alban_Richard.pdb
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\obj\Debug\net8.0\Prueba_Alban_Richard.genruntimeconfig.cache
+C:\Users\HP\Documents\Visual Studio 2022\Code Snippets\Visual C#\My Code Snippets\Prueba_Alban_Richard\Prueba_Alban_Richard\obj\Debug\net8.0\ref\Prueba_Alban_Richard.dll
